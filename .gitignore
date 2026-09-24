@@ -1,0 +1,15 @@
+# Python virtual environment
+.venv/
+
+# Secrets
+.env
+
+# macOS
+.DS_Store
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Marimo generated files
+__marimo__/
